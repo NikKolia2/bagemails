@@ -1,0 +1,30 @@
+<?php
+
+$_lang["bagemails"] = "BagEmails";
+$_lang["bagemails_form"] = "Формы";
+$_lang["bagemails_emails"] = "Письма";
+$_lang["bagemails.form.name"] = "Наименование формы";
+$_lang["bagemails.form.create.header"] = "Создание формы";
+$_lang["bagemails.form.update.header"] = "Редактирование формы";
+$_lang["bagemails.form.grid"] = "Поля формы";
+$_lang["bagemails.form.grid.add"] = "Добавить поле";
+$_lang["bagemails.form.grid.none"] = "Добавьте поле";
+$_lang["bagemails.form.grid.key"] = "Ключ поля";
+$_lang["bagemails.form.grid.name"] = "Наименование поля";
+$_lang["bagemails.form.option.create"] = "Создание поля";
+$_lang["bagemails.form.option.update"] = "Редактирование поля";
+$_lang["bagemails.form.option.key"] = "Ключ поля";
+$_lang["bagemails.form.option.name"] = "Наименование поля";
+$_lang["bagemails.form.grid.edit"] = "Редактировать";
+$_lang["bagemails.form.grid.delete"] = "Удалить";
+$_lang["bagemails_menu_remove"] = "Удалить";
+$_lang["bagemails_menu_remove_confirm"] = "Вы уверены, что хотите удалить эту запись?";
+$_lang["bagemails.form.list.none"] = "Добавьте форму";
+$_lang["bagemails.form.list.add"] = "Добавить форму";
+$_lang["bagemails.form.list.name"] = "Форма";
+$_lang["bagemails.form.list.emails"] = "Посмотреть письма";
+$_lang["bagemails.form.list"] = "Формы";
+$_lang["bagemails.form.emails.date.begin"] = "Выбрать письма с";
+$_lang["bagemails.form.emails.date.end"] = "Выбрать письма по";
+$_lang["bagemails.form.emails.btn_export"] = "Экспортировать";
+$_lang["bagemails.form.emails.export"] = "Экспорт...";
